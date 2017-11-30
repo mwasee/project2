@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 13, 2017, 11:28:17 AM
+    Author     : dell
+*/
+
+.menu{
+   background-color: black;
+    height: 40px;
+    max-width: 100%;
+    border-right:  2px lightgrey;
+    color:lightgrey;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 10px;
+}
+.features{
+   /* border: 2px solid #000;*/
+    height: 100px;
+    max-width: 100%;
+    padding-top: 30px;
+    font-size: 12px;
+    font-family: inherit;
+    text-transform:  uppercase;
+}
+.bar{
+   /* border: 1px solid black;*/
+    height: 60px;
+    padding-top: 12px;
+    background-color: lightgray;
+    font-size: 15px;
+}
+.MI{
+    font-size: 25px;
+    background-color: lightgray;
+    padding-top: 12px;
+}
+.tt{
+    background-color:darkorange;
+    border: 15px solid lightgray;
+}
+.slide{
+    height: 1200px;
+    background-image: url(../images/mi2.jpg);
+    background-position: center;
+    
+}
+.content{
+    border: 2px solid black;
+    height: 300px;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 20px;
+    background-color: #000;
+    color:#fff;
+    background-image: url(../images/galaxy.jpg);
+    
+}
+
+.image{
+    height:500px;
+    /*border: 2px solid red;*/
+    background-color:darkslategrey;
+}
+.img{
+    background-image: url(../images/mi8.jpg);
+    background-size:cover ;
+    height: 500px;
+    width:1500px;
+}
+.display-3{
+    text-align: right;
+}
